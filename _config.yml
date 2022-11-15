@@ -1,0 +1,9 @@
+# Site settings
+title: Software Dev Blog
+author:
+  name: Mike Blair
+  email: michaelleonardblair@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: mkbcodes/al-folio
