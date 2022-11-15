@@ -1,2 +1,2 @@
 # blog-test
-Testing blog deploying with Jekyll
+Testing blog deployment with Jekyll using a forked remote theme.
